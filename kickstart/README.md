@@ -36,9 +36,9 @@ buy air則是贊同人數已達門檻（一半以上），因此可決定是否�
 
 新增募資活動:
 
-<img src="https://github.com/luckyuho/EthereumProject/blob/main/kickstart/images/newCampaign.png" width=700 height=400 title="新增募資活動" />
+<img src="https://github.com/luckyuho/EthereumProject/blob/main/kickstart/images/newCampaign.png" width=1000 height=400 title="新增募資活動" />
 
 
 募資活動一覽:
 
-<img src="https://github.com/luckyuho/EthereumProject/blob/main/kickstart/images/campaigns.png" width=700 height=400 title="募資活動一覽" />
+<img src="https://github.com/luckyuho/EthereumProject/blob/main/kickstart/images/campaigns.png" width=1000 height=400 title="募資活動一覽" />
