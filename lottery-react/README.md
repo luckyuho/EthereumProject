@@ -2,6 +2,10 @@
 
 這是發布在Rinkeby測試鏈上的區塊鏈小遊戲，參與者投入參加金，利用亂數產生方法，決定最後誰是贏家，贏家將獎金池的獎金全數取回。
 
+### 合約內容可參照[Contract](https://github.com/luckyuho/EthereumProject/blob/main/lottery/contracts/Lottery.sol)
+
+<hr />
+
 起始畫面： \
 <img src="https://github.com/luckyuho/EthereumProject/blob/main/lottery-react/images/iniital.png" width=1000 height=400 title="起始畫面" />
 <br />
